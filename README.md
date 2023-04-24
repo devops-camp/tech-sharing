@@ -36,7 +36,7 @@
 
 1. **浮生未歇** （4月2日）: [第一期 《云原生从业者转型的最后一公里》](./docs/第一期-云原生从业者转型的最后一公里.pdf)
 
-2. **慕斯才** （4月9日）
+2. **慕斯才** （4月9日）: [TechShare02-LVS的三种实现模式和特性](https://dr97qlzebi.feishu.cn/docx/H9PldyZzKolhgXxUUJjcN9dqnpg)
 3. **陈明勇** （4月16日）
 4. **老麦** （4月23日）: [TechShare-第四期-一些CI的心得](./docs/TechShare-第四期-一些CI的心得.pdf)
 5. **Jo** （5月7日） // 4月30日，劳动节放假， 顺延一周。
