@@ -34,11 +34,18 @@
 
 **队列中**
 
-1. **浮生未歇** （4月2日）: [第一期 《云原生从业者转型的最后一公里》](./docs/第一期-云原生从业者转型的最后一公里.pdf)
-
-2. **慕斯才** （4月9日）: [TechShare02-LVS的三种实现模式和特性](https://dr97qlzebi.feishu.cn/docx/H9PldyZzKolhgXxUUJjcN9dqnpg)
-3. **陈明勇** （4月16日）: [TechShare03-写作——输出倒逼输入](./docs/TechShare03-写作——输出倒逼输入.pdf)
-4. **老麦** （4月23日）: [TechShare-第四期-一些CI的心得](./docs/TechShare-第四期-一些CI的心得.pdf)
+1. **浮生未歇** （4月2日）: 第一期 《云原生从业者转型的最后一公里》
+    + [PDF文档](./docs/第一期-云原生从业者转型的最后一公里.pdf)
+    + [B站视频](https://www.bilibili.com/video/BV1og4y1u7eP/)
+2. **慕斯才** （4月9日）: 《TechShare02-LVS的三种实现模式和特性》
+    + [飞书文档](https://dr97qlzebi.feishu.cn/docx/H9PldyZzKolhgXxUUJjcN9dqnpg)
+    + [B站视频](https://www.bilibili.com/video/BV1Ch411M7YN/)
+3. **陈明勇** （4月16日）: 《TechShare03-写作——输出倒逼输入》
+    + [PDF 文档](./docs/TechShare03-写作——输出倒逼输入.pdf)
+    + [B站视频](https://www.bilibili.com/video/BV1GM411L7aK/)
+4. **老麦** （4月23日）: 《TechShare-第四期-一些CI的心得》
+    + [PDF 文档](./docs/TechShare-第四期-一些CI的心得.pdf)
+    + [B站视频](https://www.bilibili.com/video/BV16L411Y75x/)
 5. **Jo** （5月7日） // 4月30日，劳动节放假， 顺延一周。
 6. **银河有迹可循** （5月14日）
 7. **Javan** （5月21日）
