@@ -35,7 +35,7 @@
 **队列中**
 
 1. **浮生未歇** （4月2日）: 第一期 《云原生从业者转型的最后一公里》
-    + [PDF文档](./docs/第一期-云原生从业者转型的最后一公里.pdf)
+    + [PDF文档](./docs/TechShare01-云原生从业者转型的最后一公里.pdf)
     + [B站视频](https://www.bilibili.com/video/BV1og4y1u7eP/)
 2. **慕斯才** （4月9日）: 《TechShare02-LVS的三种实现模式和特性》
     + [飞书文档](https://dr97qlzebi.feishu.cn/docx/H9PldyZzKolhgXxUUJjcN9dqnpg)
@@ -44,9 +44,11 @@
     + [PDF 文档](./docs/TechShare03-写作——输出倒逼输入.pdf)
     + [B站视频](https://www.bilibili.com/video/BV1GM411L7aK/)
 4. **老麦** （4月23日）: 《TechShare-第四期-一些CI的心得》
-    + [PDF 文档](./docs/TechShare-第四期-一些CI的心得.pdf)
+    + [PDF 文档](./docs/TechShare04-一些CI的心得.pdf)
     + [B站视频](https://www.bilibili.com/video/BV16L411Y75x/)
-5. **Jo** （5月7日） // 4月30日，劳动节放假， 顺延一周。
+5. **Jo** （5月7日）《TechShare-如何高效使用ChatGPT 
+    + [PDF 文档](./docs/TechShare05-如何高效使用ChatGPT.pdf)
+    + [B站视频](https://www.bilibili.com/video/BV1pX4y117go/)
 6. **银河有迹可循** （5月14日）
 7. **Javan** （5月21日）
 8. **熊** （5月28日）
